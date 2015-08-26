@@ -1,0 +1,463 @@
+<html lang="en">
+<head>
+<title>Utsav's Resume</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet"
+	href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+<script
+	src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script
+	src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+<script
+	src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.15/angular.min.js"></script>
+<script src="todo.js"></script>
+<link rel="stylesheet" href="todo.css">
+<link rel="stylesheet" href="css/timeline.css">
+<link rel="stylesheet" type="text/css" media="all"
+	href="css/bootstrap.min.css">
+<link rel="stylesheet" type="text/css" media="all"
+	href="css/bootstrap-glyphicons.css">
+<link rel="stylesheet"
+	href="../../bower_components\metro\build\css\metro.css">
+<link href="../../bower_components\metro\build\css\metro-icons.css"
+	rel="stylesheet">
+<link rel="stylesheet" type="text/css" media="all"
+	href="css/custom.css">
+
+</head>
+
+<body>
+
+<div class="container">
+	<div class="cvTile tile tile-wide-x">
+		<div class="tile-content slide-up">
+			<div class="slide">
+				<img src="images/resume.jpg">
+			</div>
+			<div class="slide-over op-darkIndigo padding10">9 Years of
+				working with some of the best MNCs has equipped me with knowledge of
+			</div>
+			<span class="tile-label" style="color: white; left:0.1em">
+				<h2>
+					Utsav Chobe
+				</h2>
+			</span> 
+			<span class="tile-badge">
+				<span style="font-size: -webkit-xxx-large">9</span>
+				years
+			</span>
+		</div>
+	</div>
+	<div class="address-wrap">
+	<div class="tile-small tile-wide-x address" style="padding: 0.55em;">
+		<span class="mif-mail mif-2x"> 
+			<a href="mailto:utsav.chobe@gmail.com" style="font-size:0.45em;">
+				utsav.chobe@gmail.com
+			</a>
+		</span>
+	</div>
+	<div class="tile-small tile-wide-x address" style="padding: 0.55em;">
+		<span class="mif-linkedin mif-2x"> 
+			<a href="http://in.linkedin.com/in/utsavchobe" style="font-size:0.45em;">
+				in.linkedin.com/in/utsavchobe
+			</a>
+		</span>
+	</div></div>
+
+		<div class="tile-group quadro"
+			style="left: 0px; margin: 5px; width: 100%;">
+			<h2>
+				Temples of Experience
+			</h2>
+			<div style="padding: 1.5em;">
+				<span class="mif-user-plus mif-2x" style="padding-left: 1em;">
+					<a href="www.CompriseIT.com">CompriseIT</a>
+				</span> <span class="mif-user-minus mif-2x" style="padding-left: 1em;">
+					<a href="www.amdocs.com">Amdocs</a>
+				</span> <span class="mif-user-minus mif-2x" style="padding-left: 1em;">
+					<a href="www.csc.com">CSC</a>
+				</span> <span class="mif-user-minus mif-2x" style="padding-left: 1em;">
+					<a href="www.Birlasoft.com">Birlasoft</a>
+				</span>
+			</div>
+		</div>
+
+
+		<div class="tile-group quadro"
+			style="left: 0px; margin: 5px; width: 100%;">
+			<h2>
+				Skills
+			</h2>
+			<div class="tile">
+				<div class="tile-content iconic">
+					<img src="images/ui5.png" class="icon"/> <span
+						class="tile-label">UI 5</span>
+				</div>
+			</div>
+			<div class="tile tile-small-skills">
+				<div class="tile-content iconic">
+					<img src="images/css3.png" class="icon"/> <span
+						class="tile-label">CSS3</span>
+				</div>
+			</div>
+			<div class="tile">
+				<div class="tile-content iconic">
+					<img src="images/javascript.png" class="icon"/> <span
+						class="tile-label">Javascript</span>
+				</div>
+			</div>
+			<div class="tile tile-small-skills">
+				<div class="tile-content iconic">
+					<img src="images/html5.png" class="icon"/> <span
+						class="tile-label">HTML5</span>
+				</div>
+			</div>
+			<div class="tile ">
+				<div class="tile-content iconic">
+					<img src="images/java.jpg" class="icon"/> <span
+						class="tile-label">Java</span>
+				</div>
+			</div>
+			<div class="tile tile-small-skills">
+				<div class="tile-content iconic">
+					<img src="images/jquery.gif" class="icon"/> <span
+						class="tile-label">jQuery</span>
+				</div>
+			</div>
+			<!-- Second Row -->
+			<div class="tile tile-small-skills">
+				<div class="tile-content iconic">
+					<img src="images/cordova.png" class="icon"/> <span
+						class="tile-label">Cordova</span>
+				</div>
+			</div>
+			<div class="tile">
+				<div class="tile-content iconic">
+					<img src="images/responsive.png" class="icon"/> <span
+						class="tile-label">Responsive</span>
+				</div>
+			</div>
+			<div class="tile tile-small-skills">
+				<div class="tile-content iconic">
+					<img src="images/struts.jpeg" class="icon"/> <span
+						class="tile-label">Struts</span>
+				</div>
+			</div>
+			<div class="tile">
+				<div class="tile-content iconic">
+					<img src="images/hibernate.png" class="icon"/> <span
+						class="tile-label">Hibernate</span>
+				</div>
+			</div>
+			<div class="tile tile-small-skills">
+				<div class="tile-content iconic">
+					<img src="images/backbone.jpg" class="icon"/> <span
+						class="tile-label">BackboneJs</span>
+				</div>
+			</div>
+			<div class="tile">
+				<div class="tile-content iconic">
+					<img src="images/angularjs.png" class="icon"/> <span
+						class="tile-label">AngularJs</span>
+				</div>
+			</div>
+			<div class="tile">
+				<div class="tile-content iconic">
+					<img src="images/fiori.png" class="icon"> <span
+						class="tile-label">SAP Fiori</span>
+				</div>
+			</div>
+
+			<div class="tile tile-small-skills">
+				<div class="tile-content iconic">
+					<img src="images/odata.png" class="icon"/> <span
+						class="tile-label">OData</span>
+				</div>
+			</div>
+			<div class="tile">
+				<div class="tile-content iconic">
+					<img src="images/uml.gif" class="icon"/> <span
+						class="tile-label">UML</span>
+				</div>
+			</div>
+			<div class="tile tile-small-skills">
+				<div class="tile-content iconic">
+					<img src="images/xml.png" class="icon"/> <span
+						class="tile-label">XML - XSL</span>
+				</div>
+			</div>
+
+			<div class="tile">
+				<div class="tile-content iconic">
+					<img src="images/toastmaster.jpeg" class="icon"/> <span
+						class="tile-label">Toastmaster</span>
+				</div>
+			</div>
+			<div class="tile tile-small-skills">
+				<div class="tile-content iconic">
+					<img src="images/agile.jpg" class="icon"/> <span
+						class="tile-label">Agile - Scrum</span>
+				</div>
+			</div>
+			<div class="tile tile-small-skills">
+				<div class="tile-content iconic">
+					<img src="images/designThinking.png" class="icon"/> <span
+						class="tile-label">Design Thinking</span>
+				</div>
+			</div>
+			<div class="tile">
+				<div class="tile-content iconic">
+					<img src="images/Olingo.png" class="icon"/> <span
+						class="tile-label">Apache Olingo</span>
+				</div>
+			</div>
+			<div class="tile tile-small-skills">
+				<div class="tile-content iconic">
+					<img src="images/sql.png" class="icon"/> <span
+						class="tile-label">SQL</span>
+				</div>
+			</div>
+			<div class="tile">
+				<div class="tile-content iconic">
+					<img src="images/underscore.png" class="icon"/> <span
+						class="tile-label">Underscore</span>
+				</div>
+			</div>
+			<div class="tile tile-small-skills">
+				<div class="tile-content iconic">
+					<img src="images/requirejs.jpg" class="icon"/> <span
+						class="tile-label">RequireJs</span>
+				</div>
+			</div>
+		</div>
+		
+		
+		<div class="tile-group" style="left: 0px; margin: 5px; width: 100%;">
+		<h2>
+			Education
+		</h2>
+		<div class="grid" style="width:100%">
+			<div class="row cells3">
+				<div class="cell">
+					<!-- With icon (font) -->
+					<div class="panel success">
+						<div class="heading">
+							<span class="icon mif-library mif-2x" style="color: black; background-color:white"></span> <span class="title" style="font-size:0.75em; color:white">Oxford
+								University, UK</span>
+						</div>
+						<div class="content"><br>Responsive Web Design</div>
+					</div>
+				</div>
+				<div class="cell">
+					<!-- With icon (font) -->
+					<div class="panel warning">
+						<div class="heading">
+							<span class="icon mif-library mif-2x" style="color: black; background-color:#F4E7BC"></span> <span class="title" style="font-size:0.75em; color:white;">FLMI, USA
+								</span>
+						</div>
+						<div class="content">Life Insurance - LOMA 280 & LOMA 290</div>
+					</div>
+				</div>
+				<div class="cell">
+					<!-- With icon (font) -->
+					<div class="panel success">
+						<div class="heading">
+							<span class="icon mif-library mif-2x" style="color: black; background-color:white"></span> <span class="title" style="font-size:0.75em; color:white">IET - DAVV, India</span>
+						</div>
+						<div class="content"><br>Bachelors in Engineering</div>
+					</div>
+				</div>
+			</div>
+			</div>
+		</div>
+		
+		<!-- Synopsis Control -->
+		
+		
+		
+
+		<!-- Timeline Control -->
+		<div class="tile-group" style="left: 0px; margin: 5px; width: 100%;">
+		<h2>Projects</h2>
+		<div class="page-header">
+			<!-- <h1>Projects</h1> -->
+		</div>
+		<ul class="timeline">
+			<li>
+				<div class="timeline-badge">
+					2015
+				</div>
+				<div class="timeline-panel">
+					<div class="timeline-heading">
+						<h4 class="timeline-title">Mussum ipsum cacilds</h4>
+						<p>
+							<small class="text-muted"><i
+								class="glyphicon glyphicon-time"></i> 11 hours ago via Twitter</small>
+						</p>
+					</div>
+					<div class="timeline-body">
+						<p>Mussum ipsum cacilds, vidis litro abertis. Consetis
+							adipiscings elitis. Pra lá , depois divoltis porris, paradis.
+							Paisis, filhis, espiritis santis. Mé faiz elementum girarzis,
+							nisi eros vermeio, in elementis mé pra quem é amistosis quis leo.
+							Manduma pindureta quium dia nois paga. Sapien in monti palavris
+							qui num significa nadis i pareci latim. Interessantiss quisso
+							pudia ce receita de bolis, mais bolis eu num gostis.</p>
+					</div>
+				</div>
+			</li>
+			<li class="timeline-inverted">
+				<div class="timeline-badge warning">
+					<i class="glyphicon glyphicon-credit-card"></i>
+				</div>
+				<div class="timeline-panel">
+					<div class="timeline-heading">
+						<h4 class="timeline-title">Mussum ipsum cacilds</h4>
+					</div>
+					<div class="timeline-body">
+						<p>Mussum ipsum cacilds, vidis litro abertis. Consetis
+							adipiscings elitis. Pra lá , depois divoltis porris, paradis.
+							Paisis, filhis, espiritis santis. Mé faiz elementum girarzis,
+							nisi eros vermeio, in elementis mé pra quem é amistosis quis leo.
+							Manduma pindureta quium dia nois paga. Sapien in monti palavris
+							qui num significa nadis i pareci latim. Interessantiss quisso
+							pudia ce receita de bolis, mais bolis eu num gostis.</p>
+						<p>Suco de cevadiss, é um leite divinis, qui tem lupuliz,
+							matis, aguis e fermentis. Interagi no mé, cursus quis, vehicula
+							ac nisi. Aenean vel dui dui. Nullam leo erat, aliquet quis tempus
+							a, posuere ut mi. Ut scelerisque neque et turpis posuere pulvinar
+							pellentesque nibh ullamcorper. Pharetra in mattis molestie,
+							volutpat elementum justo. Aenean ut ante turpis. Pellentesque
+							laoreet mé vel lectus scelerisque interdum cursus velit auctor.
+							Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ac
+							mauris lectus, non scelerisque augue. Aenean justo massa.</p>
+					</div>
+				</div>
+			</li>
+			<li>
+				<div class="timeline-badge danger">
+					<i class="glyphicon glyphicon-credit-card"></i>
+				</div>
+				<div class="timeline-panel">
+					<div class="timeline-heading">
+						<h4 class="timeline-title">Mussum ipsum cacilds</h4>
+					</div>
+					<div class="timeline-body">
+						<p>Mussum ipsum cacilds, vidis litro abertis. Consetis
+							adipiscings elitis. Pra lá , depois divoltis porris, paradis.
+							Paisis, filhis, espiritis santis. Mé faiz elementum girarzis,
+							nisi eros vermeio, in elementis mé pra quem é amistosis quis leo.
+							Manduma pindureta quium dia nois paga. Sapien in monti palavris
+							qui num significa nadis i pareci latim. Interessantiss quisso
+							pudia ce receita de bolis, mais bolis eu num gostis.</p>
+					</div>
+				</div>
+			</li>
+			<li class="timeline-inverted">
+				<div class="timeline-panel">
+					<div class="timeline-heading">
+						<h4 class="timeline-title">Mussum ipsum cacilds</h4>
+					</div>
+					<div class="timeline-body">
+						<p>Mussum ipsum cacilds, vidis litro abertis. Consetis
+							adipiscings elitis. Pra lá , depois divoltis porris, paradis.
+							Paisis, filhis, espiritis santis. Mé faiz elementum girarzis,
+							nisi eros vermeio, in elementis mé pra quem é amistosis quis leo.
+							Manduma pindureta quium dia nois paga. Sapien in monti palavris
+							qui num significa nadis i pareci latim. Interessantiss quisso
+							pudia ce receita de bolis, mais bolis eu num gostis.</p>
+					</div>
+				</div>
+			</li>
+			<li>
+				<div class="timeline-badge info">
+					<i class="glyphicon glyphicon-floppy-disk"></i>
+				</div>
+				<div class="timeline-panel">
+					<div class="timeline-heading">
+						<h4 class="timeline-title">Mussum ipsum cacilds</h4>
+					</div>
+					<div class="timeline-body">
+						<p>Mussum ipsum cacilds, vidis litro abertis. Consetis
+							adipiscings elitis. Pra lá , depois divoltis porris, paradis.
+							Paisis, filhis, espiritis santis. Mé faiz elementum girarzis,
+							nisi eros vermeio, in elementis mé pra quem é amistosis quis leo.
+							Manduma pindureta quium dia nois paga. Sapien in monti palavris
+							qui num significa nadis i pareci latim. Interessantiss quisso
+							pudia ce receita de bolis, mais bolis eu num gostis.</p>
+						<hr>
+						<div class="btn-group">
+							<button type="button"
+								class="btn btn-primary btn-sm dropdown-toggle"
+								data-toggle="dropdown">
+								<i class="glyphicon glyphicon-cog"></i> <span class="caret"></span>
+							</button>
+							<ul class="dropdown-menu" role="menu">
+								<li><a href="#">Action</a></li>
+								<li><a href="#">Another action</a></li>
+								<li><a href="#">Something else here</a></li>
+								<li class="divider"></li>
+								<li><a href="#">Separated link</a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</li>
+			<li>
+				<div class="timeline-panel">
+					<div class="timeline-heading">
+						<h4 class="timeline-title">Mussum ipsum cacilds</h4>
+					</div>
+					<div class="timeline-body">
+						<p>Mussum ipsum cacilds, vidis litro abertis. Consetis
+							adipiscings elitis. Pra lá , depois divoltis porris, paradis.
+							Paisis, filhis, espiritis santis. Mé faiz elementum girarzis,
+							nisi eros vermeio, in elementis mé pra quem é amistosis quis leo.
+							Manduma pindureta quium dia nois paga. Sapien in monti palavris
+							qui num significa nadis i pareci latim. Interessantiss quisso
+							pudia ce receita de bolis, mais bolis eu num gostis.</p>
+					</div>
+				</div>
+			</li>
+			<li class="timeline-inverted">
+				<div class="timeline-badge success">
+					<i class="glyphicon glyphicon-thumbs-up"></i>
+				</div>
+				<div class="timeline-panel">
+					<div class="timeline-heading">
+						<h4 class="timeline-title">Mussum ipsum cacilds</h4>
+					</div>
+					<div class="timeline-body">
+						<p>Mussum ipsum cacilds, vidis litro abertis. Consetis
+							adipiscings elitis. Pra lá , depois divoltis porris, paradis.
+							Paisis, filhis, espiritis santis. Mé faiz elementum girarzis,
+							nisi eros vermeio, in elementis mé pra quem é amistosis quis leo.
+							Manduma pindureta quium dia nois paga. Sapien in monti palavris
+							qui num significa nadis i pareci latim. Interessantiss quisso
+							pudia ce receita de bolis, mais bolis eu num gostis.</p>
+					</div>
+				</div>
+			</li>
+		</ul>
+</div>
+
+		<!-- Timeline Control End -->
+
+
+	</div>
+	<div class="cvTile tile tile-big-x">
+		<div class="tile-content slide-up">
+			<div class="slide">
+				<img src="images/resume.jpg">
+			</div>
+			<div class="slide-over op-darkIndigo padding10">9 Years of
+				working with some of the best MNCs has equipped me with knowledge of
+			</div>
+			<span class="tile-label" style="color: white">Curriculum Vitae</span>
+			<span class="tile-badge"><span
+				style="font-size: -webkit-xxx-large">5</span> years</span>
+		</div>
+	</div>
+	</body>
+</html>

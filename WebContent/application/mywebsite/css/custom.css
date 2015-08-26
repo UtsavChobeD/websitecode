@@ -1,0 +1,197 @@
+.panel > .content {
+    background-color: #4C2C62 !important;
+}
+
+.panel > .heading, .panel > .content {
+    color: #E3CACA !important;
+}
+
+a {
+	font-size: .75rem;
+	color:#DADEE0;
+	
+}
+
+.timeline-body li{
+	 list-style-image: url('../images/smallTick.png');
+}
+
+h2{
+	color:white;
+}
+
+.tile{
+	background-color: rgb(23, 175, 228);
+	box-shadow: inset 0 0 0px #FFFFCC;
+}
+
+.tile .tile-label{
+	color:white;
+	left:0px;
+}
+
+.tile-small .tile-content.iconic .icon {
+	width: 95%;
+	height: 95%;
+	font-size: 32px;
+	margin-left: -32px;
+	margin-top: -34px;
+}
+
+.timeline > li > .timeline-badge {
+	width:90px !important;
+}
+
+.timeline li {
+	left:-1em;	
+}
+
+.timeline-inverted .timeline-panel{
+	left:2.3em;
+}
+
+.container{
+	padding: 4.5em;
+	background-color:wheat;
+	background:repeating-linear-gradient(
+  45deg,
+  rgba(0, 0, 0, 0.2),
+  rgba(0, 0, 0, 0.2) 10px,
+  rgba(0, 0, 0, 0.3) 10px,
+  rgba(0, 0, 0, 0.3) 20px
+);
+
+/* background:
+linear-gradient(27deg, rgba(21,21,21,0.3) 5px, transparent 5px) 0 5px,
+linear-gradient(207deg, rgba(21,21,21,0.3) 5px, transparent 5px) 10px 0px,
+linear-gradient(27deg, rgba(34,34,34,0.3) 5px, transparent 5px) 0px 10px,
+linear-gradient(207deg, rgba(34,34,34,0.3) 5px, transparent 5px) 10px 5px,
+linear-gradient(90deg, rgba(27,27,27,0.3) 10px, transparent 10px),
+linear-gradient(rgba(29,29,29,0.3)d 25%, rgba(26,26,26,0.3) 25%, rgba(26,26,26,0.3) 50%, transparent 50%, transparent 75%, rgba(36,36,36,0.3) 75%, rgba(36,36,36,0.3));
+background-color: rgba(19,19,19,0.3); */
+
+/* background:
+linear-gradient(27deg, #151515 5px, transparent 5px) 0 5px,
+linear-gradient(207deg, #151515 5px, transparent 5px) 10px 0px,
+linear-gradient(27deg, #222 5px, transparent 5px) 0px 10px,
+linear-gradient(207deg, #222 5px, transparent 5px) 10px 5px,
+linear-gradient(90deg, #1b1b1b 10px, transparent 10px),
+linear-gradient(#1d1d1d 25%, #1a1a1a 25%, #1a1a1a 50%, transparent 50%, transparent 75%, #242424 75%, #242424); */
+background-color: rgba(10,10,10,0.7);
+/* background-color: #131313; */
+/* background-size: 20px 20px; */
+}
+
+.address-wrap{
+	left:13em;
+}
+
+@media (max-width: 667px) and (orientation : portrait) { 
+    //iPhone 6 Portrait
+    .container{
+    	padding-left:2% !important;
+    	padding:0px !important;
+    }
+    
+    .tile-small-skills:nth-of-type(4n), .tile-small-skills:nth-of-type(4n+1){
+	background-color: transparent !important;
+	/* border-style: solid;
+	border-width: 1px;
+	border-color: #AF7878; */
+}
+
+.tile-small-skills{
+	background-color: rgb(23, 175, 228) !important;
+	/* border-style: solid;
+	border-width: 1px;
+	border-color: #AF7878; */
+}
+    
+    .address-wrap{
+	left:0% !important;
+}
+
+.addressEmail{
+	width: 10.5em !important;
+}
+
+.addressLink{
+	width: 13em !important;
+}
+
+.timeline > li > .timeline-badge {
+	left:5% !important;
+}
+
+.timeline li {
+	left:0em !important;	
+}
+
+
+
+.timeline-inverted .timeline-panel{
+	left:0em !important;
+}
+}
+
+
+@media (max-width: 667px) and (orientation : landscape) { 
+    //iPhone 6 landscape
+    .container{
+    	padding-left:0% !important;
+    	padding:0px !important;
+    }
+    .address-wrap{
+	left:0% !important;
+}
+
+.timeline > li > .timeline-badge {
+	left:2.3% !important;
+}
+
+.timeline li {
+	left:0em !important;	
+}
+
+.timeline-inverted .timeline-panel{
+	left:0em !important;
+}
+}
+
+body{
+	 background-image:url(../images/keyboard.jpg); 
+	 background-position:center;
+}
+
+.tile .tile-content.iconic .icon {
+	/* width: 100%;
+	height: 100%;
+	font-size: 32px;
+	margin-left: -75px;
+	margin-top: -75px; */
+	
+}
+
+.addressEmail{
+	width: 17em;
+}
+
+.addressLink{
+	width: 17em;
+}
+
+.tile-small-skills:hover{
+	color : red !important;
+}
+
+.tile-small-skills{
+	width:155px;
+	height:155px;
+}
+
+.tile-small-skills:nth-of-type(even) {
+	background-color: transparent;
+	/* border-style: solid;
+	border-width: 1px;
+	border-color: #AF7878; */
+}
