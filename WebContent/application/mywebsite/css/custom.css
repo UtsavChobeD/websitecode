@@ -185,8 +185,8 @@ body{
 }
 
 .tile-small-skills{
-	width:155px;
-	height:155px;
+	width:10em;
+	height:10em;
 }
 
 .tile-small-skills:nth-of-type(even) {
