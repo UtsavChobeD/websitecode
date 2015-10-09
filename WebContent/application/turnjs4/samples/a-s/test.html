@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<script type="text/javascript" src="../../extras/jquery.min.1.7.js"></script>
+</head>
+<body>
+<button id="button">VUTTON</button>
+</body>
+<script>
+
+$("#button").click(function(){
+	document.documentElement.webkitRequestFullscreen();
+	screen.orientation.lock("landscape")
+})
+</script>
+</html>
